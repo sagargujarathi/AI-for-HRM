@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Project AI for HR Management
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
